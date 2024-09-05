@@ -9,7 +9,7 @@ body {
   .birthdayCard {
     position: relative;
     width: 255px;
-    height: 350px;
+    height: 400px;
     cursor: pointer;
     transform-style: preserve-3d;
     transform: perspective(2500px);
@@ -34,7 +34,7 @@ body {
     position: relative;
     background-color: #fff;
     width: 255px;
-    height: 350px;
+    height: 400px;
     overflow: hidden;
     transform-origin: left;
     box-shadow: inset 100px 20px 100px rgba(0, 0, 0, 0.2),
